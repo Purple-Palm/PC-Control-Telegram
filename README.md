@@ -19,6 +19,9 @@ Telegram Bot that allows you to control your PC via Telegram completly private
 > - [x] Turn off screen.
 > - [x] Turn on screen.
 > - [ ] Auto Updater.
+> - [ ] TTS Messages.
+> - [ ] On Screen Messages.
+> - [ ] Debug when machine start.
 
 # Our discord
 [![Discord](https://img.shields.io/discord/1105322344253235291?color=green%20&label=Discord&logo=discord&style=plastic)](https://discord.gg/7YcpGBYAYy)   
