@@ -20,7 +20,7 @@ Telegram Bot that allows you to control your PC via Telegram completly private
 > - [x] Turn on screen.
 > - [ ] Auto Updater.
 > - [ ] TTS Messages.
-> - [ ] On Screen Messages.
+> - [x] On Screen Messages.
 > - [ ] Debug when machine start.
 
 # Our discord
