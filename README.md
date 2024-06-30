@@ -1,5 +1,5 @@
 # PC-Control-Telegram
-Telegram Bot that allows you to control your PC via Telegram completly private
+Telegram Bot that allows you to control your PC via Telegram completly private.
 
 > [!IMPORTANT]
 > We are not going to release it, till we done the most common stuff:
