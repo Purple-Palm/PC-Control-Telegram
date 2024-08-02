@@ -24,4 +24,4 @@ Telegram Bot that allows you to control your PC via Telegram completly private.
 > - [ ] Debug when machine start.
 
 # Our discord
-[![Discord](https://img.shields.io/discord/1105322344253235291?color=green%20&label=Discord&logo=discord&style=plastic)](https://discord.gg/7YcpGBYAYy)   
+[![Discord](https://img.shields.io/discord/1054578014593241179?style=flat&logo=discord&logoColor=ffffff&label=Discord&labelColor=0000ff&link=https%3A%2F%2Fdiscord.gg%2FdzqeXYDDmy)](https://discord.gg/dzqeXYDDmy)
